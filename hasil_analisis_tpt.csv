@@ -1,0 +1,39 @@
+provinsi,tpt_feb,tpt_mei,delta,arah,klaster_id,klaster,tipe_klaster,kmeans_id,kmeans,tipe_kmeans,selisih_nasional,kuadran,rank_feb,rank_mei,delta_rank,prediksi,residual
+ACEH,5.88,5.89,0.01,Naik,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",1.24,"Di atas nasional, naik",7,6,1,-0.06,0.07
+SUMATERA UTARA,5.01,5.03,0.02,Naik,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",0.38,"Di atas nasional, naik",13,13,0,-0.028,0.048
+SUMATERA BARAT,5.51,5.53,0.02,Naik,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",0.88,"Di atas nasional, naik",10,10,0,-0.046,0.066
+RIAU,4.09,4.09,0.0,Tetap,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.56,"Di bawah nasional, tetap",20,21,-1,0.007,-0.007
+JAMBI,3.99,4.1,0.11,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.55,"Di bawah nasional, naik",21,20,1,0.01,0.1
+SUMATERA SELATAN,3.59,3.6,0.01,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.05,"Di bawah nasional, naik",26,26,0,0.025,-0.015
+BENGKULU,3.23,3.2,-0.03,Turun,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.45,"Di bawah nasional, turun",30,32,-2,0.039,-0.069
+LAMPUNG,3.95,3.97,0.02,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.68,"Di bawah nasional, naik",22,22,0,0.012,0.008
+KEP. BANGKA BELITUNG,4.15,4.21,0.06,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.44,"Di bawah nasional, naik",18,18,0,0.004,0.056
+KEP. RIAU,6.87,6.45,-0.42,Turun,2,Cluster 2,"TPT tinggi, turun tajam",2,Cluster 2,"TPT tinggi, turun tajam",1.8,"Di atas nasional, turun",2,4,-2,-0.097,-0.323
+DKI JAKARTA,6.03,5.79,-0.24,Turun,2,Cluster 2,"TPT tinggi, turun tajam",2,Cluster 2,"TPT tinggi, turun tajam",1.14,"Di atas nasional, turun",6,8,-2,-0.066,-0.174
+JAWA BARAT,6.64,6.61,-0.03,Turun,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",1.96,"Di atas nasional, turun",3,2,1,-0.089,0.059
+JAWA TENGAH,4.24,4.3,0.06,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.35,"Di bawah nasional, naik",17,17,0,0.001,0.059
+DI YOGYAKARTA,3.05,3.11,0.06,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.54,"Di bawah nasional, naik",33,33,0,0.045,0.015
+JAWA TIMUR,3.55,3.42,-0.13,Turun,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.23,"Di bawah nasional, turun",27,29,-2,0.027,-0.157
+BANTEN,6.59,6.48,-0.11,Turun,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",1.83,"Di atas nasional, turun",4,3,1,-0.087,-0.023
+BALI,1.59,1.52,-0.07,Turun,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-3.13,"Di bawah nasional, turun",38,38,0,0.1,-0.17
+NUSA TENGGARA BARAT,2.99,2.98,-0.01,Turun,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.67,"Di bawah nasional, turun",34,34,0,0.048,-0.058
+NUSA TENGGARA TIMUR,3.16,3.26,0.1,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.39,"Di bawah nasional, naik",32,31,1,0.041,0.059
+KALIMANTAN BARAT,4.57,4.46,-0.11,Turun,3,Cluster 3,"TPT rendah, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",-0.19,"Di bawah nasional, turun",15,15,0,-0.011,-0.099
+KALIMANTAN TENGAH,3.44,3.59,0.15,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.06,"Di bawah nasional, naik",28,27,1,0.031,0.119
+KALIMANTAN SELATAN,3.8,3.81,0.01,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.84,"Di bawah nasional, naik",25,24,1,0.017,-0.007
+KALIMANTAN TIMUR,5.27,5.24,-0.03,Turun,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",0.59,"Di atas nasional, turun",11,12,-1,-0.037,0.007
+KALIMANTAN UTARA,3.9,3.9,0.0,Tetap,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.75,"Di bawah nasional, tetap",23,23,0,0.014,-0.014
+SULAWESI UTARA,5.75,5.85,0.1,Naik,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",1.2,"Di atas nasional, naik",9,7,2,-0.055,0.155
+SULAWESI TENGAH,2.95,2.97,0.02,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.68,"Di bawah nasional, naik",35,35,0,0.049,-0.029
+SULAWESI SELATAN,4.95,4.66,-0.29,Turun,2,Cluster 2,"TPT tinggi, turun tajam",2,Cluster 2,"TPT tinggi, turun tajam",0.01,"Di atas nasional, turun",14,14,0,-0.026,-0.264
+SULAWESI TENGGARA,3.25,3.47,0.22,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.18,"Di bawah nasional, naik",29,28,1,0.038,0.182
+GORONTALO,3.17,3.35,0.18,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.3,"Di bawah nasional, naik",31,30,1,0.041,0.139
+SULAWESI BARAT,2.93,2.89,-0.04,Turun,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-1.76,"Di bawah nasional, turun",36,36,0,0.05,-0.09
+MALUKU,5.8,5.75,-0.05,Turun,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",1.1,"Di atas nasional, turun",8,9,-1,-0.057,0.007
+MALUKU UTARA,4.46,4.4,-0.06,Turun,3,Cluster 3,"TPT rendah, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",-0.25,"Di bawah nasional, turun",16,16,0,-0.007,-0.053
+PAPUA BARAT,4.1,4.19,0.09,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.46,"Di bawah nasional, naik",19,19,0,0.006,0.084
+PAPUA BARAT DAYA,6.41,6.38,-0.03,Turun,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",1.73,"Di atas nasional, turun",5,5,0,-0.08,0.05
+PAPUA,7.02,7.08,0.06,Naik,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",2.43,"Di atas nasional, naik",1,1,0,-0.103,0.163
+PAPUA SELATAN,5.25,5.29,0.04,Naik,1,Cluster 1,"TPT tinggi, relatif stabil",1,Cluster 1,"TPT tinggi, relatif stabil",0.64,"Di atas nasional, naik",12,11,1,-0.037,0.077
+PAPUA TENGAH,3.83,3.81,-0.02,Turun,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-0.84,"Di bawah nasional, turun",24,24,0,0.016,-0.036
+PAPUA PEGUNUNGAN,1.7,1.86,0.16,Naik,3,Cluster 3,"TPT rendah, relatif stabil",3,Cluster 3,"TPT rendah, relatif stabil",-2.79,"Di bawah nasional, naik",37,37,0,0.096,0.064
