@@ -34,9 +34,7 @@ NAS_MEI = 4.65
 NAS_DELTA = -0.03
 
 # Lokasi dataset default
-DEFAULT_FILE = Path(
-    r"D:\kuliah\sem 5\Presentasi Data & Storytelling\project tpt\hasil_analisis_tpt.csv"
-)
+DEFAULT_FILE = Path(__file__).resolve().parent / "hasil_analisis_tpt.csv"
 
 # =========================================================
 # 2. CSS
